@@ -1,0 +1,3 @@
+see \\Friend\d\Video\Pluralsite\Data science\Pluralsight.Doing.Data.Science.with.Python\04. Extracting Data
+04_04-Demo_ Extracting Data from Databases
+04_06-Demo_ Extracting Data Through APIs(acesskey setup)

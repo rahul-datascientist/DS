@@ -1,0 +1,26 @@
+01 Course Introduction
+02 Environment Set-Up
+03 Jupyter Overview
+04 Python Crash Course
+05 Python for Data Analysis - NumPy
+06 Python for Data Analysis - Pandas
+07 Python for Data Analysis - Pandas Exercises
+08 Python for Data Visualization - Matplotlib
+09 Python for Data Visualization - Seaborn
+10 Python for Data Visualization - Pandas Built-in Data Visualization
+11 Python for Data Visualization - Plotly and Cufflinks
+12 Python for Data Visualization - Geographical Plotting
+13 Data Capstone Project
+14 Introduction to Machine Learning
+15 Linear Regression
+16 Cross Validation and Bias-Variance Trade-Off
+17 Logistic Regression
+18 K Nearest Neighbors
+19 Decision Trees and Random Forests
+20 Support Vector Machines
+21 K Means Clustering
+22 Principal Component Analysis
+23 Recommender Systems
+24 Natural Language Processing
+25 Big Data and Spark with Python
+26 Neural Nets and Deep Learning

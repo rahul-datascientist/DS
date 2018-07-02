@@ -1,0 +1,5 @@
+1.entirity of training set vs test 
+2. grab tile Mr. Ms
+3. Cabin letter as feature
+4.Ticket as feature
+5. convert plclass as dummy variable 
